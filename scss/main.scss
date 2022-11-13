@@ -1,0 +1,16 @@
+@import './utils/var';
+@import './utils/mixin';
+@import './utils/reset';
+@import './utils/visually-hidden';
+@import './common-components/body&section';
+@import './common-components/container';
+@import './common-components/header';
+@import './common-components/footer';
+@import './index-components/hero';
+@import './index-components/features';
+@import './index-components/activiti'; 
+@import './index-components/team';
+@import './index-components/our-clients';
+@import './index-components/modal';
+@import './portfolio-components/_portf-navigation';
+@import './portfolio-components/projects';
